@@ -207,3 +207,10 @@ For support and questions:
 - Check the troubleshooting section
 - Use the in-app chat assistant
 - Review system logs in the event panel
+- 
+
+
+
+The problem ELDER CARE solves
+
+The primary problem is the high risk of injury and delayed assistance following falls among the elderly, which can lead to serious health complications, prolonged recovery, or even fatal outcomes. Many older adults live alone or experience limited supervision, making timely detection and intervention critical. Traditional monitoring methods rely heavily on manual checks or wearable devices, which may be unreliable or go unnoticed during an emergency. This creates an urgent need for an automated, real-time fall detection system that ensures immediate alerts and rapid response to safeguard elderly individuals’ health and independence.
